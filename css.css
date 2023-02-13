@@ -1,0 +1,14 @@
+.main_img
+{
+    
+    background-image: url(img/img1.png);
+    width: 930px;
+    height: 488.2px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom-left-radius: 27px;
+    border-bottom-right-radius: 27px;
+    
+}
+ 
+
