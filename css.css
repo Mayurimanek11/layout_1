@@ -86,7 +86,7 @@
     width: 386px;
     height: 249px;
     margin-left: 535px;
-    margin-top: -615px;
+    margin-top: -948px;
     border-bottom-right-radius: 27px;
     border-top-left-radius: 27px;
 }
@@ -101,7 +101,7 @@
     font-size: xxx-large;
     text-align: center;
     margin-left: 481px;
-    margin-top:-193px;
+    margin-top:-359px;
 }
 .lorempart
 {
@@ -111,7 +111,7 @@
     width: 480px;
     padding-right: 34px;
     margin-left: 520px;
-    margin-top: -110px;
+    margin-top: -16px;
     width: 427px;
 }
 .icon .iimg
@@ -124,11 +124,14 @@
     paddin: 13px;
     margin-inline: 29px;
 }
-.contectus
+.social
 {
-    color: color: rgb(62 62 181 / 56%);
+    display: flex;
+    margin-block: 30px;
+    margin-left: 108px;
+    
 }
-   
+
 
  
 
