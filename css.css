@@ -17,7 +17,7 @@
 
    
     justify-content: center;
-    background-color: rgba(23, 82, 170, 0.938);
+    background-image: linear-gradient(to bottom right, rgb(69, 69, 238),rgb(5, 5, 158));
     width:800px;
     height: 100px;
     color: white;
@@ -52,12 +52,12 @@
  b
  {
     font-size:xxx-large;
-    color: rgb(3, 3, 115);
+    color: rgb(40, 121, 187);
     font-weight: 900;
  }
  .about
  {
-    color: rgb(62 62 181 / 56%);
+    color: rgba(62, 62, 181, 0.56);
     font-size: x-large;
  }
  .paragraph
@@ -67,7 +67,7 @@
     font-size: smaller;
     font-family: revert;
     text-align:right;
-    color: rgb(62 62 181 / 56%);
+    color:rgba(42, 154, 180, 0.642);
     padding-right: -28px;
     
 
@@ -75,7 +75,8 @@
  .Specialattd
  {
     text-align: end;
-    color: rgb(62 62 181 / 56%);
+    color: rgba(62, 62, 181, 0.56);
+
     font-size: 25px;
     font-weight: 700;
 }
@@ -86,7 +87,7 @@
     width: 386px;
     height: 249px;
     margin-left: 535px;
-    margin-top: -948px;
+    margin-top: -908px;
     border-bottom-right-radius: 27px;
     border-top-left-radius: 27px;
 }
@@ -101,7 +102,7 @@
     font-size: xxx-large;
     text-align: center;
     margin-left: 481px;
-    margin-top:-359px;
+    margin-top:-340px;
 }
 .lorempart
 {
@@ -114,6 +115,7 @@
     margin-top: -16px;
     width: 427px;
 }
+/*------------------------service icon---------*/
 .icon .iimg
 {
     
@@ -137,9 +139,9 @@
     border-style: none;
     margin-left: 288px;
     margin-top: -64px;
+    
+    
 }
-
-
 
  
 
