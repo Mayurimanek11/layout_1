@@ -8,16 +8,33 @@
     background-size: cover;
     border-bottom-left-radius: 27px;
     border-bottom-right-radius: 27px;
-    
-    
 }
+/*-----------------logo img--------*/
+.logo_img
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 388px;
+    border-radius: 113px;
+    margin-top: 25px;
+}
+.logo
+{
+    margin-left: 449px;
+    margin-top: -41px;
+    font-weight: 900;
+    color: rgba(23, 82, 170, 0.938);
+
+    font-size: 21px;
+}
+
 /*----------------------------blue block--------------*/
 .mid 
 {
 
    
     justify-content: center;
-    background-image: linear-gradient(to bottom right, rgb(69, 69, 238),rgb(5, 5, 158));
+    background-image: linear-gradient(to bottom right, rgb(6, 141, 175),rgb(37, 146, 193));
     width:800px;
     height: 100px;
     color: white;
@@ -87,7 +104,7 @@
     width: 386px;
     height: 249px;
     margin-left: 535px;
-    margin-top: -908px;
+    margin-top: -950px;
     border-bottom-right-radius: 27px;
     border-top-left-radius: 27px;
 }
@@ -102,7 +119,7 @@
     font-size: xxx-large;
     text-align: center;
     margin-left: 481px;
-    margin-top:-340px;
+    margin-top:-361px;
 }
 .lorempart
 {
@@ -132,6 +149,7 @@
     margin-block: 30px;
     margin-left: 108px;
     
+    
 }
 .barcode
 {
@@ -140,8 +158,9 @@
     margin-left: 288px;
     margin-top: -64px;
     
-    
 }
+
+    
 
  
 
