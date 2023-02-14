@@ -48,5 +48,87 @@
     margin-top: -15px;
     margin-left: 89px;
 }
+ /*------------------------second info part----------*/
+ b
+ {
+    font-size:xxx-large;
+    color: rgb(3, 3, 115);
+    font-weight: 900;
+ }
+ .about
+ {
+    color: rgb(62 62 181 / 56%);
+    font-size: x-large;
+ }
+ .paragraph
+ {
+    
+    margin-bottom: 1rem;
+    font-size: smaller;
+    font-family: revert;
+    text-align:right;
+    color: rgb(62 62 181 / 56%);
+    padding-right: -28px;
+    
+
+ }
+ .Specialattd
+ {
+    text-align: end;
+    color: rgb(62 62 181 / 56%);
+    font-size: 25px;
+    font-weight: 700;
+}
+ 
+ /*-------------------right part-----------*/
+ .side_img
+ {
+    width: 386px;
+    height: 249px;
+    margin-left: 535px;
+    margin-top: -615px;
+    border-bottom-right-radius: 27px;
+    border-top-left-radius: 27px;
+}
+.ourservice
+{
+    background-color: rgba(23, 82, 170, 0.938);
+    width: 468px;
+    height: 82px;
+    color: white;
+    border-top-left-radius: 27px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: xxx-large;
+    text-align: center;
+    margin-left: 481px;
+    margin-top:-193px;
+}
+.lorempart
+{
+    background-color: rgb(47, 192, 202);
+    color: white;
+    text-align: right;
+    width: 480px;
+    padding-right: 34px;
+    margin-left: 520px;
+    margin-top: -110px;
+    width: 427px;
+}
+.icon .iimg
+{
+    
+    width: 85px;
+    page-break-after: 25px;
+    padding-inline: 13px;
+    margin-top: 24px;
+    paddin: 13px;
+    margin-inline: 29px;
+}
+.contectus
+{
+    color: color: rgb(62 62 181 / 56%);
+}
+   
+
  
 
